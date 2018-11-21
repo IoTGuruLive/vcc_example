@@ -1,13 +1,11 @@
-#VCC send example
-
+# VCC send example
 
 You need to sign up for create your own node and field: https://iotguru.live/signup
 
 The variables of the API call:
-
-{nodeKey} - the API key of your node
-{field} - the field of the node
-{value} - the measurement as number
+- {nodeKey} - the API key of your node
+- {field} - the field of the node
+- {value} - the measurement as number
 
 http://api.iotguru.live/measurement/create/create/{nodeKey}/{field}/{value}
 

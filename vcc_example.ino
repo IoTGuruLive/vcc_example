@@ -10,7 +10,7 @@
  * {field} - the field of the node
  * {value} - the measurement as number
  *
- * http://api.iotguru.live/measurement/create/create/{nodeKey}/{field}/{value}
+ * http://api.iotguru.live/measurement/create/{nodeKey}/{field}/{value}
  *
  * See the example HTTP call below (don't forget to replace values!).
  *
